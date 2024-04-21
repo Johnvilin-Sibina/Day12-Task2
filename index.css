@@ -1,46 +1,37 @@
-.one{
-
+body{
     background-color: rgb(240, 238, 245);
+}
+.main {
     padding: 6%;
 }
-h1{
-    font-family:monospace;
+
+h1 {
+    font-family: monospace;
 }
-p{
-    font-size: 20px;
+
+p {
+    font-size: 2rem;
 }
-.two{
+
+.header {
     text-align: center;
 }
-.container{
-    padding:50px;
+
+.container {
+    padding: 50px;
     border: 1px solid black;
     height: 100%;
     width: 100%;
     background-color: rgb(198, 199, 204);
 }
-.three{
-display: inline-block;
-font-size: 22px;
-}
-.four{
-    display: inline-block;
-    padding: 5%;
-}
-.input{
-    padding-left: 10px;
-}
-img{
-    height:250px;
-    width: 200px;
-    border-radius: 50%;
-}
-#unique{
-   color: white;
-}
-table{
+table {
     font-size: 22px;
 }
-.label{
-    font-family:Georgia;
+
+.label {
+    font-family: Georgia;
+}
+
+input {
+    width: 80%;
 }
